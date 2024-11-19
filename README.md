@@ -6,6 +6,7 @@ A curated list of deals on Black Friday 2024.
 
 Total deals: 330
 
+- [⭐ Featured Tools ](#-featured-tools)
 - [👨‍💻 Developer Tools ](#-developer-tools)
 	- [💻 Developer macOS Apps (13)](#-developer-macos-apps)
 	- [💻 Tools & Services (26)](#-tools--services)
@@ -47,7 +48,7 @@ Total deals: 330
 - [💪 Health and Fitness (3)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (25)](#-miscellaneous)
 
-## ⭐ Featured
+## ⭐ Featured Tools
 
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
