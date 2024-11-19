@@ -47,6 +47,17 @@ Total deals: 330
 - [💪 Health and Fitness (3)](#-health-and-fitness)
 - [👨‍🎨 Miscellaneous (25)](#-miscellaneous)
 
+## ⭐ Featured
+
+|  | Name | Description | Discount Code & Terms |
+| -- | ---| ------ | ------ |
+|  ⭐ | [CompressX](https://compressx.app?aff=nyLmN) | Easily compress your media with significant file size reduction, work 100% offline. | 30% off of all plans **BF24** |
+|  ⭐ | [AnotherWrapper](https://anotherwrapper.com?aff=nyLmN) | Build your AI startup in hours | 50% OFF for all plans with code **BLACKFRIDAY** |
+|  ⭐ | [Build This Keyword](https://buildthekeyword.com?aff=nyLmN) | Find online business ideas that will bring you customers on auto-pilot | 50% OFF on Website |
+|  🌐 | [LocalCan™](https://www.localcan.com?aff=nyLmN) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
+
+[⬆️ Go to Top](#table-of-contents)
+
 ## 👨‍💻 Developer Tools
 
 ### 💻 Developer macOS Apps
