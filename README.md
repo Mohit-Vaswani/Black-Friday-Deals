@@ -2,25 +2,6 @@
 
 A curated list of deals on Black Friday 2024.
 
-Feel free to add your app's deal below [with a Pull Request](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/860).
-
-Make sure you add your deal **at the end** of each category (first come, first merged). ([See rules](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday/issues/367))
-
-Don't forget to:
-- 👉 ...give this repo a star so it becomes trending on Black Friday! ⭐ 🤩
-- 👉 ...bookmark this page to come back here next year 2025! 📆🤩
-
-
-## Sponsored Deals
-
-Hi there! ❤️ I built multiple profitable products in public and also maintain this repo! Follow me on Twitter: https://x.com/tdinh_me
-
-| [TypingMind.com](https://www.typingmind.com)<br/> 🔥 55% OFF Lifetime Premium Plan | [DevUtils](https://devutils.com) (macOS app) <br/> 🔥 50% OFF | [CompressX](https://compressx.app) (macOS app) <br/> 🔥 30% OFF |
-| --- | ------ | ------|
-| <a href="https://www.typingmind.com"><img src="https://image.social/get?url=typingmind.com"></a> | <a href="https://devutils.com"><img src="https://devutils.com/social-poster.png"></a> | <a href="https://compressx.app"><img src="https://i.ibb.co/7yjtyZw/com.jpg"></a> |
-| Your Personal AI Workspace.<br/>BLACKFRIDAY_2024<br/><br/>Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | All-in-one toolbox for developers.<br/>BLACKFRIDAY_2024 <br/><br/> 42+ carefully crafted developer tools. Native macOS app, fast & beautiful. Work offline, and respect your data. Fully supports Apple Silicon & macOS Ventura. | Discount code: BF24<br/><br/>CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality |
-
-
 ## Table of Contents
 
 Total deals: 330
